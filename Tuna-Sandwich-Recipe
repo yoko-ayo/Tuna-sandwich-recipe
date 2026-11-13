@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>How to Make A Tuna Sandwich</title>
+</head>
+
+<body>
+<h1>How To Make A Tuna Sandwich</h1>
+<p>This is a quick and easy instruction guide on how to make a tuna sandwich. This can be eaten as a lunch item or a snack and can be combined with any toppings of your choice, such as cucumber, lettuce or raw chopped bell pepper. This recipe is a guide to making a basic sandwich.</p>
+<img src="https://somethingaboutsandwiches.com/wp-content/uploads/2021/02/tuna-cucumber-sandwich.jpg" alt="An image of a tuna sandwich" width="400">
+<h2>Ingredients</h2> 
+<ul>
+<li> Canned Tuna </li>
+<li> Mayonnaise </li>
+<li> 2 Slices of bread </li>
+<li> Cucumber </li>
+</ul>
+
+<h2>Instructions</h2>
+<ol> 
+<li> Empty a can of tuna into a bowl. </li>
+<li> Add Mayonnaise and stir well until you create a spread. </li>
+<li> Cut 5 slices of cucumber.</li>
+<li> Spread the tuna mix onto a slice of bread. </li>
+<li> Add the layer of cucumber slices. </li>
+<li> Close the sandwich with the other slice of bread. </li>
+<li> Slice the sandwich in half and enjoy. </li>
+</ol>
+</body>
+</html>
